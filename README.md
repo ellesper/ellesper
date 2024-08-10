@@ -1,6 +1,6 @@
 ### Hello friends! ✨
 
-- ⚡ I'm an IT engineer from Raleigh, North Carolina.
-- 🌱 I’m a huge homelab nerd and I'm here to learn more about how to use Docker.
-- 💬 Contact me on Twitter at [@ellespermusic](https://twitter.com/ellespermusic).
+- ⚡ I'm an IT Technician based in the Raleigh, NC area
+- 🌐 Pursuing a career as a DevOps engineer
+- 🌱 Currently learning Python
 - 🏳️‍⚧️ Pronouns: She/Her
